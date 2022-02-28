@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'Walkthrough_unit3.gif' title='Unit3' width='' alt='SimpleTweet' />
+<img src='walkthrough_unit3.gif' title='Unit3' width='' alt='SimpleTweet' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
